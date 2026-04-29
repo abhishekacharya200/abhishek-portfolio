@@ -46,6 +46,15 @@
   },
   {
     "id": 6,
+    "year": "2082 BS (2025–2026)",
+    "title": "AI/ML & NLP Engineer Intern",
+    "organization": "Nepal Telecom",
+    "description": "Designed and deployed a production-ready RAG-based AI chatbot using Ollama + Llama 3 (locally hosted) — ensuring complete data privacy. Architected the full retrieval pipeline: document ingestion, vector search, and context injection into the LLM. Integrated Google Gemini LLM for real-time intent classification and NLP/NLU preprocessing to enhance query understanding.",
+    "type": "work",
+    "color": "#10b981"
+  },
+  {
+    "id": 7,
     "year": "2082 BS (Expected)",
     "title": "Graduating BSc CSIT",
     "organization": "Amrit Science Campus (ASCOL), Kathmandu",

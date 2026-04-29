@@ -1,5 +1,18 @@
 [
   {
+    "id": 5,
+    "title": "AI-Powered Customer Service Chatbot with RAG & LLM Integration",
+    "description": "Production-ready intelligent chatbot combining RAG, Google Gemini LLM, and Django REST Framework for context-aware customer service with reduced hallucination.",
+    "problem": "Businesses need 24/7 intelligent customer support that can answer queries accurately from a knowledge base without hallucinating facts. Traditional chatbots lack context-awareness and fail to leverage company-specific knowledge effectively.",
+    "solution": "Built a production-ready chatbot combining Retrieval-Augmented Generation (RAG) with Google Gemini LLM and Django REST Framework. Designed RESTful API endpoints with JWT authentication, rate limiting, and Swagger/OpenAPI docs. Implemented real-time async task handling with Celery and Redis, WebSocket support for live chat, and a React + TypeScript frontend with CI/CD via GitHub Actions.",
+    "results": "Delivers context-aware responses with reduced hallucination via knowledge base retrieval. Handles high-traffic scenarios with Celery queue management and Redis caching. Fully Dockerized for reproducible deployment with a complete CI/CD pipeline.",
+    "category": "AI/ML",
+    "tech": ["Python", "Django REST Framework", "PostgreSQL", "Redis", "Celery", "Google Gemini LLM", "RAG", "React", "TypeScript", "Docker", "GitHub Actions", "WebSocket", "JWT"],
+    "github": "https://github.com/abhishekacharya200/Aarambha-AI-Customer-Service-Chatbot",
+    "live": "",
+    "image": "/images/ai-chatbot.jpg"
+  },
+  {
     "id": 1,
     "title": "Movie Finance Management System",
     "description": "Enterprise-grade financial management platform for film production companies using waterfall methodology.",
