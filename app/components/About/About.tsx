@@ -82,7 +82,7 @@ export default function About() {
           >
             <h3 className="text-2xl font-bold mb-6 text-accent-purple">GitHub Activity</h3>
             <GitHubCalendar
-              username="javascript1415"
+              username="abhishekacharya200"
               colorScheme="dark"
               blockSize={12}
               fontSize={14}

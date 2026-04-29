@@ -52,6 +52,19 @@
     "image": "/images/ecommerce.jpg"
   },
   {
+    "id": 6,
+    "title": "Aarambha Store — Full-Stack E-Commerce with React & DRF",
+    "description": "Modern full-stack e-commerce platform with a React/TypeScript frontend and Django REST Framework backend, featuring eSewa payment gateway integration.",
+    "problem": "Existing e-commerce solutions for the Nepali market lack a modern, decoupled architecture that separates the frontend and backend concerns, limiting scalability and developer experience. Businesses need a responsive SPA storefront backed by a robust REST API.",
+    "solution": "Developed a fully decoupled e-commerce application with a React + TypeScript (Vite) SPA as the storefront and a Django REST Framework API as the backend. Implemented JWT-based authentication, product catalog, cart and order management, and eSewa payment gateway integration. Deployed the API with PostgreSQL and connected it seamlessly to the React frontend via Axios.",
+    "results": "Delivers a fast, responsive shopping experience with a modern React SPA frontend and a scalable DRF API backend. Supports complete e-commerce workflows including product browsing, cart management, order placement, and payment via Nepal's leading payment gateway.",
+    "category": "E-Commerce",
+    "tech": ["React", "TypeScript", "Vite", "Django REST Framework", "PostgreSQL", "eSewa API", "JWT", "Axios"],
+    "github": "https://github.com/abhishekacharya200/Ecommerceweb",
+    "live": "",
+    "image": "/images/ecommerce.jpg"
+  },
+  {
     "id": 4,
     "title": "Real-Time Chat Application",
     "description": "Scalable RESTful API backend supporting real-time user-to-user communication.",

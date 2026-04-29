@@ -7,7 +7,7 @@ import { useMemo } from "react";
 
 export default function Hero() {
   const socialLinks = [
-    { icon: <Github size={24} />, href: "https://github.com/javascript1415", label: "GitHub" },
+    { icon: <Github size={24} />, href: "https://github.com/abhishekacharya200", label: "GitHub" },
     { icon: <Linkedin size={24} />, href: "https://www.linkedin.com/in/abhishek-acharya-b34404222/", label: "LinkedIn" },
     { icon: <Twitter size={24} />, href: "https://x.com/Abhisek18600551", label: "Twitter" },
     { icon: <Mail size={24} />, href: "mailto:javascript1415@gmail.com", label: "Email" },
